@@ -8,7 +8,7 @@ namespace CoreUtilities
         /// test 1-2-3
         /// </summary>
         /// <typeparam name="TModel"></typeparam>
-        /// <param name="model"></param>
+        /// <param name="model">ADSAD</param>
         /// <returns></returns>
         public static string Serialize<TModel>(TModel model)
         {
