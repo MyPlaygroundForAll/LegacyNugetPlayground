@@ -7,7 +7,7 @@ namespace CoreUtilities
         /// <summary>
         /// test
         /// </summary>
-        /// <typeparam name="TModel"></typeparam>
+        /// <typeparam name="TModel">asdgf</typeparam>
         /// <param name="model">ADSAD</param>
         /// <returns></returns>
         public static string Serialize<TModel>(TModel model)
