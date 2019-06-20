@@ -1,5 +1,10 @@
 assembly-versioning-scheme: MajorMinorPatch
 mode: ContinuousDelivery
-branches: {}
+branches: 
+    master:
+        mode: ContinuousDelivery
+        increment: Patch
+        prevent-increment-of-merged-branch-version: true
+        track-merge-target: false
 ignore:
   sha: []
