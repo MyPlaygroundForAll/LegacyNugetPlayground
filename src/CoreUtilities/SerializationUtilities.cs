@@ -5,7 +5,7 @@ namespace CoreUtilities
     public static class SerializationUtilities
     {
         /// <summary>
-        /// 
+        /// test
         /// </summary>
         /// <typeparam name="TModel"></typeparam>
         /// <param name="model"></param>
